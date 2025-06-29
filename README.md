@@ -62,3 +62,24 @@ Used only 5 classes: `neutral`, `happy`, `sad`, `angry`, `surprise`
 
 ```bash
 pip install tensorflow opencv-python numpy
+
+## ▶️ How to Run
+
+```bash
+python realtime_emotion_detection.py
+The webcam will open and display live predictions for one of the following emotions:
+neutral, happy, sad, angry, surprise
+
+📂 Files in the Repository
+File	Description
+train_emotion_model.ipynb	Training notebook using FER2013
+realtime_emotion_detection.py	Script for real-time webcam detection
+realtime_emotion_detection.ipynb	Jupyter version for real-time testing
+emotion_labels.npy	Saved class labels
+emotion_model.h5 (external)	Download separately (trained model)
+requirements.txt	Python dependencies
+README.md	Project documentation
+
+👤 Author
+Youssef Osama Fawzy
+GitHub • LinkedIn

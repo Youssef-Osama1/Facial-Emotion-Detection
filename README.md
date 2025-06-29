@@ -1,5 +1,11 @@
 # Facial Emotion Detection 😄😢😡
 
+# Facial Emotion Detection 😄😢😡
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.14-orange)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 🎥 **[Watch Real-Time Demo](https://drive.google.com/file/d/1hbSXi4lOVQk7fP8GbSngoNVvNtmfB5zO/view)**
 
 This project presents a robust deep learning pipeline that detects **five key facial emotions** in real-time using a webcam.  

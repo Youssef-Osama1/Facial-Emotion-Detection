@@ -62,9 +62,3 @@ Used only 5 classes: `neutral`, `happy`, `sad`, `angry`, `surprise`
 
 ```bash
 pip install tensorflow opencv-python numpy
-
-## ▶️ How to Run
-
-```bash
-python realtime_emotion_detection.py
-

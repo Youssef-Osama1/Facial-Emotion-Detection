@@ -1,7 +1,5 @@
 # Facial Emotion Detection 😄😢😡
 
-# Facial Emotion Detection 😄😢😡
-
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.14-orange)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)

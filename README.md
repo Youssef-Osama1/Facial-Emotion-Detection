@@ -64,11 +64,6 @@ Used only 5 classes: `neutral`, `happy`, `sad`, `angry`, `surprise`
 pip install tensorflow opencv-python numpy
 
 ---
-
 ### ▶️ How to Run
-
-```bash
 python realtime_emotion_detection.py
 
-The webcam will open and display live predictions for one of the following emotions:
-neutral, happy, sad, angry, surprise

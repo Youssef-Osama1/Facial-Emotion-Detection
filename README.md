@@ -77,7 +77,7 @@ neutral, happy, sad, angry, surprise
 ## 🔗 Model Download
 
 📦 You can download the trained model here:  
-➡️ [Download fer2013_dataset.zip](https://drive.google.com/uc?id=1PYUCvC7e1VviaAInCyobcQntajFLTT18&export=download)
+➡️ [Download emotion_model.h5](https://drive.google.com/uc?id=1PYUCvC7e1VviaAInCyobcQntajFLTT18&export=download)
 
 Once downloaded, place the file in the root directory of the project (same level as `realtime_emotion_detection.py`) before running the script:
 

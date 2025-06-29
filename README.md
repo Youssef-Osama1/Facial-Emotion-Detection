@@ -1,6 +1,6 @@
 # Facial Emotion Detection 😄😢😡
 
-🎥 [Watch Real-Time Demo](https://drive.google.com/file/d/1hbSXi4lOVQk7fP8GbSngoNVvNtmfB5zO/view)
+🎥 **[Watch Real-Time Demo](https://drive.google.com/file/d/1hbSXi4lOVQk7fP8GbSngoNVvNtmfB5zO/view)**
 
 This project presents a robust deep learning pipeline that detects **five key facial emotions** in real-time using a webcam.  
 It leverages **transfer learning via MobileNetV2**, with a unique fine-tuning stage using **personally captured images** to boost recognition accuracy on the target face.

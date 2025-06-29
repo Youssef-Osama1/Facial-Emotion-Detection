@@ -74,6 +74,13 @@ The webcam will open and display live predictions for one of the following emoti
 neutral, happy, sad, angry, surprise
 
 ---
+## 🔗 Model Download
+
+📦 You can download the trained model here:  
+➡️ [Download emotion_model.h5 from Google Drive](https://drive.google.com/uc?id=1hbSXi4lOVQk7fP8GbSngoNVvNtmfB5zO&export=download)
+
+Once downloaded, place the file in the root directory of the project (same level as `realtime_emotion_detection.py`) before running the script:
+
 ---
 
 ## 📂 Files in the Repository

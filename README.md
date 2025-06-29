@@ -93,4 +93,4 @@ neutral, happy, sad, angry, surprise
 ## 👤 Author
 
 **Youssef Osama Fawzy**  
-[GitHub](https://github.com/Youssef-Osama1) • [LinkedIn](https://www.linkedin.com/in/Youssef-Osama1)
+[GitHub](https://github.com/Youssef-Osama1) • [LinkedIn](https://www.linkedin.com/in/youssef-osama-770a19297/)
